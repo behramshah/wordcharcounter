@@ -1,0 +1,7 @@
+#toggler {
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: larger;
+    font-weight: 700;
+}
